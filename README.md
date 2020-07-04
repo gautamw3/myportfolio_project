@@ -10,6 +10,7 @@ Technologies Used:
 * CSS3
 * Vanilla Javascript
 * jQuery
+* AJAX
 * Textlocal SMS API
 * PhpMailer
 * AWS S3 (Simple Storage Service)
