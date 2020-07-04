@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www.gautamw3.com [NC]
+RewriteRule ^(.*)$ http://gautamw3.com/$1 [L,R=301]
+
+# Disable error reporting
+# php_flag display_errors on
