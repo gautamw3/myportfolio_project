@@ -4,7 +4,7 @@ If during and untill it's development I find it really useful at any stage, I ca
 
 Technologies Used:
 
-* Programming Language : PHP(Core, oop Based)
+* Programming Language : PHP 7.2(Core, oop Based)
 * Database : MySQL
 * Bootstrap 3
 * CSS3
