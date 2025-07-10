@@ -9,9 +9,6 @@ A portfolio and blog application developed with core PHP, Bootstrap, MySQL, Java
 - [Design Patterns](#design-patterns)
 - [Getting Started](#getting-started)
 - [Configuration](#configuration)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -69,34 +66,3 @@ A portfolio and blog application developed with core PHP, Bootstrap, MySQL, Java
      define('DB_PASS', 'yourpassword');
      define('DB_NAME', 'portfolio_db');
      ```
-
-4. **Deploy to your web server:**
-   - Point your server’s document root to the project’s public directory.
-
-### Optional: Environment Variables
-
-If using environment variables, copy `.env.example` to `.env` and update as needed.
-
-## Usage
-
-- Visit the site in your browser (e.g., `http://localhost/myportfolio_project`)
-- Log in to the admin dashboard to manage projects and blog posts
-- Enjoy your portfolio and blogging platform!
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request. For major changes, open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-**Note:** You can add screenshots or a live demo link below for a more engaging README.
-
-```
-
----
-
-Would you like to add any screenshots, live demo links, or additional customization to this draft?
